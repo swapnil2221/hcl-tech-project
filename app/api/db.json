@@ -1,0 +1,303 @@
+{
+  "transactions": [
+    {
+      "type": "buy",
+      "security": "AAPL",
+      "transactionRef": "TXN123456",
+      "date": "2024-06-01T10:15:00Z",
+      "quantity": 10,
+      "totalAmount": 1850.5
+    },
+    {
+      "type": "sell",
+      "security": "GOOGL",
+      "transactionRef": "TXN123457",
+      "date": "2024-06-02T14:30:00Z",
+      "quantity": 5,
+      "totalAmount": 1425.75
+    },
+    {
+      "type": "buy",
+      "security": "TSLA",
+      "transactionRef": "TXN123458",
+      "date": "2024-06-03T09:45:00Z",
+      "quantity": 3,
+      "totalAmount": 2100.0
+    },
+    {
+      "type": "sell",
+      "security": "MSFT",
+      "transactionRef": "TXN123459",
+      "date": "2024-06-04T11:00:00Z",
+      "quantity": 8,
+      "totalAmount": 2200.0
+    },
+    {
+      "type": "buy",
+      "security": "AMZN",
+      "transactionRef": "TXN123460",
+      "date": "2024-06-05T13:20:00Z",
+      "quantity": 2,
+      "totalAmount": 3400.0
+    },
+    {
+      "type": "sell",
+      "security": "NFLX",
+      "transactionRef": "TXN123461",
+      "date": "2024-06-06T15:10:00Z",
+      "quantity": 4,
+      "totalAmount": 1800.0
+    },
+    {
+      "type": "buy",
+      "security": "NVDA",
+      "transactionRef": "TXN123462",
+      "date": "2024-06-07T09:30:00Z",
+      "quantity": 6,
+      "totalAmount": 3900.0
+    },
+    {
+      "type": "sell",
+      "security": "META",
+      "transactionRef": "TXN123463",
+      "date": "2024-06-08T12:45:00Z",
+      "quantity": 7,
+      "totalAmount": 2100.0
+    },
+    {
+      "type": "buy",
+      "security": "BABA",
+      "transactionRef": "TXN123464",
+      "date": "2024-06-09T16:00:00Z",
+      "quantity": 9,
+      "totalAmount": 1350.0
+    },
+    {
+      "type": "sell",
+      "security": "ORCL",
+      "transactionRef": "TXN123465",
+      "date": "2024-06-10T10:20:00Z",
+      "quantity": 11,
+      "totalAmount": 2200.0
+    },
+    {
+      "type": "buy",
+      "security": "AAPL",
+      "transactionRef": "TXN123466",
+      "date": "2024-06-11T11:15:00Z",
+      "quantity": 12,
+      "totalAmount": 2220.0
+    },
+    {
+      "type": "sell",
+      "security": "GOOGL",
+      "transactionRef": "TXN123467",
+      "date": "2024-06-12T14:30:00Z",
+      "quantity": 6,
+      "totalAmount": 1710.9
+    },
+    {
+      "type": "buy",
+      "security": "TSLA",
+      "transactionRef": "TXN123468",
+      "date": "2024-06-13T09:45:00Z",
+      "quantity": 4,
+      "totalAmount": 2800.0
+    },
+    {
+      "type": "sell",
+      "security": "MSFT",
+      "transactionRef": "TXN123469",
+      "date": "2024-06-14T11:00:00Z",
+      "quantity": 9,
+      "totalAmount": 2475.0
+    },
+    {
+      "type": "buy",
+      "security": "AMZN",
+      "transactionRef": "TXN123470",
+      "date": "2024-06-15T13:20:00Z",
+      "quantity": 3,
+      "totalAmount": 5100.0
+    },
+    {
+      "type": "sell",
+      "security": "NFLX",
+      "transactionRef": "TXN123471",
+      "date": "2024-06-16T15:10:00Z",
+      "quantity": 5,
+      "totalAmount": 2250.0
+    },
+    {
+      "type": "buy",
+      "security": "NVDA",
+      "transactionRef": "TXN123472",
+      "date": "2024-06-17T09:30:00Z",
+      "quantity": 7,
+      "totalAmount": 4550.0
+    },
+    {
+      "type": "sell",
+      "security": "META",
+      "transactionRef": "TXN123473",
+      "date": "2024-06-18T12:45:00Z",
+      "quantity": 8,
+      "totalAmount": 2400.0
+    },
+    {
+      "type": "buy",
+      "security": "BABA",
+      "transactionRef": "TXN123474",
+      "date": "2024-06-19T16:00:00Z",
+      "quantity": 10,
+      "totalAmount": 1500.0
+    },
+    {
+      "type": "sell",
+      "security": "ORCL",
+      "transactionRef": "TXN123475",
+      "date": "2024-06-20T10:20:00Z",
+      "quantity": 12,
+      "totalAmount": 2400.0
+    },
+    {
+      "type": "buy",
+      "security": "AAPL",
+      "transactionRef": "TXN123476",
+      "date": "2024-06-21T10:15:00Z",
+      "quantity": 14,
+      "totalAmount": 2590.7
+    },
+    {
+      "type": "sell",
+      "security": "GOOGL",
+      "transactionRef": "TXN123477",
+      "date": "2024-06-22T14:30:00Z",
+      "quantity": 7,
+      "totalAmount": 1996.05
+    },
+    {
+      "type": "buy",
+      "security": "TSLA",
+      "transactionRef": "TXN123478",
+      "date": "2024-06-23T09:45:00Z",
+      "quantity": 5,
+      "totalAmount": 3500.0
+    },
+    {
+      "type": "sell",
+      "security": "MSFT",
+      "transactionRef": "TXN123479",
+      "date": "2024-06-24T11:00:00Z",
+      "quantity": 10,
+      "totalAmount": 2750.0
+    },
+    {
+      "type": "buy",
+      "security": "AMZN",
+      "transactionRef": "TXN123480",
+      "date": "2024-06-25T13:20:00Z",
+      "quantity": 4,
+      "totalAmount": 6800.0
+    },
+    {
+      "type": "sell",
+      "security": "NFLX",
+      "transactionRef": "TXN123481",
+      "date": "2024-06-26T15:10:00Z",
+      "quantity": 6,
+      "totalAmount": 2700.0
+    },
+    {
+      "type": "buy",
+      "security": "NVDA",
+      "transactionRef": "TXN123482",
+      "date": "2024-06-27T09:30:00Z",
+      "quantity": 8,
+      "totalAmount": 5200.0
+    },
+    {
+      "type": "sell",
+      "security": "META",
+      "transactionRef": "TXN123483",
+      "date": "2024-06-28T12:45:00Z",
+      "quantity": 9,
+      "totalAmount": 2700.0
+    },
+    {
+      "type": "buy",
+      "security": "BABA",
+      "transactionRef": "TXN123484",
+      "date": "2024-06-29T16:00:00Z",
+      "quantity": 11,
+      "totalAmount": 1650.0
+    },
+    {
+      "type": "sell",
+      "security": "ORCL",
+      "transactionRef": "TXN123485",
+      "date": "2024-06-30T10:20:00Z",
+      "quantity": 13,
+      "totalAmount": 2600.0
+    }
+  ],
+  "securities": [
+    {
+      "name": "AAPL",
+      "currentTickNumber": 185,
+      "previousTickNumber": 180
+    },
+    {
+      "name": "GOOGL",
+      "currentTickNumber": 285,
+      "previousTickNumber": 290
+    },
+    {
+      "name": "TSLA",
+      "currentTickNumber": 700,
+      "previousTickNumber": 695
+    },
+    {
+      "name": "MSFT",
+      "currentTickNumber": 220,
+      "previousTickNumber": 215
+    },
+    {
+      "name": "AMZN",
+      "currentTickNumber": 3400,
+      "previousTickNumber": 3350
+    },
+    {
+      "name": "NFLX",
+      "currentTickNumber": 450,
+      "previousTickNumber": 440
+    },
+    {
+      "name": "NVDA",
+      "currentTickNumber": 650,
+      "previousTickNumber": 640
+    },
+    {
+      "name": "META",
+      "currentTickNumber": 300,
+      "previousTickNumber": 295
+    },
+    {
+      "name": "BABA",
+      "currentTickNumber": 150,
+      "previousTickNumber": 148
+    },
+    {
+      "name": "ORCL",
+      "currentTickNumber": 200,
+      "previousTickNumber": 198
+    }
+  ],
+  "profiles": [
+    {
+      "email": "alice@example.com",
+      "password": "password123",
+      "balance": 5000.0
+    }
+  ]
+}
